@@ -1,0 +1,15 @@
+.link {
+    margin-top: 20px;
+}
+
+.link .dentro {
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    margin-left: 23px;
+}
+
+.link:hover .dentro{
+    text-decoration:underline;
+    color: azure;
+}
